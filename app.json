@@ -1,7 +1,7 @@
 {
   "name": "Odooku",
   "description": "Run Odoo on Heroku",
-  "repository": "https://github.com/adaptivdesign/odooku",
+  "repository": "https://github.com/iebx/odooku",
   "keywords": [
     "odoo",
     "openerp",
@@ -9,7 +9,7 @@
   ],
   "buildpacks": [
     {
-      "url": "https://github.com/adaptivdesign/odooku-buildpack.git#10.0"
+      "url": "https://github.com/iebx/odooku-buildpack.git#10.0"
     }
   ],
   "addons": [
