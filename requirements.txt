@@ -1,1 +1,1 @@
-git+https://github.com/adptivdesign/odooku-compat.git@10.0
+git+https://github.com/iebx/odooku-compat.git@10.0
